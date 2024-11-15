@@ -2,10 +2,9 @@ body {
       background-color: #00F; /* Azul */
       font-weight : italic;
       color: rgb(21, 255, 0) ; /* Verde */
-
-
-
-
-
-
 }
+p {
+      color: rgb(75,0,255);
+      font-style: italic;
+      font-size: 20px;
+}      
